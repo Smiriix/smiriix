@@ -1,4 +1,6 @@
-## Hi there 👋
+# Vladilsav N
+<p align="center"><img src="images/logo.png" style="margin: 0 auto;" width="200" height="200" alt="logo"></p>
+
 
 <!--
 **Smiriix/smiriix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
