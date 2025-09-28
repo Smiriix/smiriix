@@ -1,5 +1,5 @@
 # Vladilsav N
-<p align="center"><img src="images/logo.png" style="margin: 0 auto;" width="150" height="150" alt="logo"></p>
+<p align="center"><img src="images/logo.png" style="margin: 0 auto;" width="200" height="200" alt="logo"></p>
 <p align="left">Привет! Меня зовут Владислав и я веб-разработчик.</p>
 <p align="left">Созданиеим сайтов занимаюсь 4 года и на моём счету более 60+ проектов выпущенных в релиз.</p>
 
